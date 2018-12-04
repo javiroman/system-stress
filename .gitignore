@@ -50,3 +50,14 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# stress particular files
+Makefile
+config.log
+config.status
+doc/Makefile
+src/.deps/
+src/Makefile
+src/stress
+test/Makefile
+
