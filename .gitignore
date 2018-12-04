@@ -60,4 +60,4 @@ src/.deps/
 src/Makefile
 src/stress
 test/Makefile
-
+doc/stress.html
